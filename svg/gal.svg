@@ -1,0 +1,17 @@
+<svg width="28" height="28" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <clipPath id="clip0_503_4019">
+   <rect width="28" height="20" rx="2" fill="white" id="svg_1"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect x="-0.0625" y="0" width="28" height="20" rx="2" fill="#000000" id="svg_3"/>
+  <mask id="mask0_503_4019" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="20">
+   <rect width="28" height="20" rx="2" fill="white" id="svg_4"/>
+  </mask>
+  <rect stroke="null" id="svg_11" height="0.06203" y="7.33995" x="11.94045" fill="#fcfcfc"/>
+  <rect stroke="null" x="0.18564" y="0.24814" width="27.50372" height="19.44169" rx="2" fill="#fcfcfc" id="svg_14"/>
+  <rect transform="rotate(33.8804 13.9203 10.0169)" stroke="null" x="-2.30008" y="8.17445" width="32.44082" height="3.68487" rx="2" fill="#3a8fff" id="svg_13"/>
+ </g>
+</svg>
